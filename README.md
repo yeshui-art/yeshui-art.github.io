@@ -1,2 +1,2 @@
-# yeshui.github.io
+# yeshui-art.github.io
 Artist portfolio and official website of Ye Shui.
