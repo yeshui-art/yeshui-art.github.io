@@ -1,0 +1,6 @@
+/* Only technical wrappers and link equivalents; original stylesheet is unchanged. */
+picture,.photo-image-link{display:contents}
+picture>source{display:none}
+.languages a{font:inherit;font-size:12px;color:var(--muted);cursor:pointer;border:0;background:none;min-width:44px;min-height:44px;padding:6px;display:inline-flex;align-items:center;justify-content:center;text-decoration:none}
+.languages a[aria-pressed=true]{color:var(--ink);text-decoration:underline;text-underline-offset:5px}
+@media(max-width:400px){.languages a{min-width:40px}}

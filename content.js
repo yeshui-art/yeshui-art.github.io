@@ -1,4 +1,4 @@
-// Bilingual content from supplied artist documents. See TRANSLATION_REVIEW.md for newly completed translations.
+// Bilingual content from supplied artist documents.
 window.SITE_CONTENT = {
   "name": {
     "zh": "野水",
@@ -202,6 +202,30 @@ window.SITE_CONTENT = {
       "alt": {
         "zh": "野水，《恶身》，2025",
         "en": "Ye Shui, Evil Body, 2025"
+      }
+    },
+    {
+      "id": "cod-clod-odd",
+      "title": {
+        "zh": "鱼，愚，余",
+        "en": "COD,CLOD,ODD"
+      },
+      "category": {
+        "zh": "绘画",
+        "en": "Painting"
+      },
+      "year": "2026",
+      "dimensions": "40 × 60 cm",
+      "medium": {
+        "zh": "丙烯，头发，金属箔及综合媒介于布面",
+        "en": "Acrylic, hair, metal foil and mixed media on canvas"
+      },
+      "image": "assets/cod-clod-odd.jpg",
+      "width": 655,
+      "height": 1005,
+      "alt": {
+        "zh": "野水，《鱼，愚，余》，2026",
+        "en": "Ye Shui, COD,CLOD,ODD, 2026"
       }
     }
   ],
