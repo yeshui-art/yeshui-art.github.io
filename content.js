@@ -227,6 +227,148 @@ window.SITE_CONTENT = {
         "zh": "野水，《鱼，愚，余》，2026",
         "en": "Ye Shui, COD,CLOD,ODD, 2026"
       }
+    },
+    {
+      "id": "ravissement",
+      "title": {
+        "zh": "迷狂",
+        "en": "Ravissement"
+      },
+      "category": {
+        "zh": "系列",
+        "en": "Series"
+      },
+      "year": "2025–ongoing",
+      "type": "series",
+      "items": [
+        {
+          "id": "ravissement-i",
+          "title": {
+            "zh": "迷狂 I",
+            "en": "Ravissement I"
+          },
+          "category": {
+            "zh": "绘画",
+            "en": "Painting"
+          },
+          "year": "2026",
+          "medium": {
+            "zh": "丙烯于布面",
+            "en": "Acrylic on canvas"
+          },
+          "dimensions": "40 × 60 cm",
+          "image": "assets/ravissement-i.jpg",
+          "width": 507,
+          "height": 769,
+          "alt": {
+            "zh": "野水，《迷狂 I》，2026",
+            "en": "Ye Shui, Ravissement I, 2026"
+          }
+        },
+        {
+          "id": "ravissement-ii",
+          "title": {
+            "zh": "迷狂 II",
+            "en": "Ravissement II"
+          },
+          "category": {
+            "zh": "绘画",
+            "en": "Painting"
+          },
+          "year": "2025",
+          "medium": {
+            "zh": "混合绘画媒介于布面",
+            "en": "Mixed drawing media on canvas"
+          },
+          "dimensions": "60 × 40 cm",
+          "image": "assets/ravissement-ii.jpg",
+          "width": 1614,
+          "height": 1062,
+          "alt": {
+            "zh": "野水，《迷狂 II》，2025",
+            "en": "Ye Shui, Ravissement II, 2025"
+          }
+        },
+        {
+          "id": "ravissement-iii",
+          "title": {
+            "zh": "迷狂 III",
+            "en": "Ravissement III"
+          },
+          "category": {
+            "zh": "绘画",
+            "en": "Painting"
+          },
+          "year": "2026",
+          "medium": {
+            "zh": "丙烯于布面",
+            "en": "Acrylic on canvas"
+          },
+          "dimensions": "20 × 20 cm",
+          "image": "assets/ravissement-iii.jpg",
+          "width": 849,
+          "height": 810,
+          "alt": {
+            "zh": "野水，《迷狂 III》，2026",
+            "en": "Ye Shui, Ravissement III, 2026"
+          }
+        }
+      ],
+      "image": "assets/ravissement-i.jpg",
+      "width": 507,
+      "height": 769,
+      "alt": {
+        "zh": "野水，《迷狂 I》，2026",
+        "en": "Ye Shui, Ravissement I, 2026"
+      }
+    },
+    {
+      "id": "worship-death",
+      "title": {
+        "zh": "允许一部分年轻人先开始死亡崇拜",
+        "en": "Allow Some Young People to Be the First to Worship Death"
+      },
+      "category": {
+        "zh": "绘画",
+        "en": "Painting"
+      },
+      "year": "2026",
+      "medium": {
+        "zh": "丙烯、灰烬、打印材料、综合媒介于布面",
+        "en": "Acrylic, ash, printed materials and mixed media on canvas"
+      },
+      "dimensions": "60 × 40 cm",
+      "image": "assets/worship-death.jpg",
+      "width": 1119,
+      "height": 731,
+      "alt": {
+        "zh": "野水，《允许一部分年轻人先开始死亡崇拜》，2026",
+        "en": "Ye Shui, Allow Some Young People to Be the First to Worship Death, 2026"
+      }
+    },
+    {
+      "id": "three-kinds-of-beds",
+      "title": {
+        "zh": "三重世界",
+        "en": "Three Kinds of Beds"
+      },
+      "category": {
+        "zh": "绘画",
+        "en": "Painting"
+      },
+      "year": "2026",
+      "medium": {
+        "zh": "丙烯、绷带、铁粉、处理纸片、综合媒介于布面",
+        "en": "Acrylic, bandages, iron powder, treated paper and mixed media on canvas"
+      },
+      "dimensions": "60 × 40 cm",
+      "image": "assets/three-kinds-of-beds.jpg",
+      "width": 1150,
+      "height": 749,
+      "alt": {
+        "zh": "野水，《三重世界》，2026",
+        "en": "Ye Shui, Three Kinds of Beds, 2026"
+      }
     }
   ],
   "photography": [

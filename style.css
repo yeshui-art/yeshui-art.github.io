@@ -27,3 +27,19 @@ header .brand{flex-shrink:0}nav{gap:24px}nav a{white-space:nowrap}.nav-wrap{min-
 @media(max-width:800px){.photo-gallery .photo-series{grid-column:2/13;margin-top:80px}.photo-series .photo-images{grid-template-columns:1fr;gap:22px}.photo-gallery .photograph:nth-child(4n+3){grid-column:1/11}.photo-caption-meta{line-height:1.8}}
 
 .text-purchase{margin-top:52px;color:var(--muted);font-size:13px;line-height:1.8}.text-purchase p{margin:6px 0}.text-purchase a{color:var(--ink);text-decoration:underline;text-underline-offset:4px;overflow-wrap:anywhere}
+
+/* Continue the existing editorial rhythm for additional works and series. */
+.home-gallery .piece:nth-child(4n+5){grid-column:2/7;margin-top:150px}
+.home-gallery .piece:nth-child(4n+6){grid-column:8/13;margin-top:230px}
+.home-gallery .piece:nth-child(4n+7){grid-column:3/11;margin-top:150px}
+.home-gallery .piece:nth-child(4n+8){grid-column:10/13;margin-top:190px}
+.series-item+.series-item{margin-top:130px}
+.series-item h2{font:normal 38px/1.15 var(--serif);margin:30px 0}
+@media(max-width:800px){
+ .home-gallery .piece:nth-child(4n+5){grid-column:1/10;margin-top:75px}
+ .home-gallery .piece:nth-child(4n+6){grid-column:4/13;margin-top:75px}
+ .home-gallery .piece:nth-child(4n+7){grid-column:1/12;margin-top:75px}
+ .home-gallery .piece:nth-child(4n+8){grid-column:6/13;margin-top:75px}
+ .series-item+.series-item{margin-top:85px}
+ .series-item h2{font-size:32px}
+}
