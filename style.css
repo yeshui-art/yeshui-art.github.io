@@ -48,3 +48,10 @@ header .brand{flex-shrink:0}nav{gap:24px}nav a{white-space:nowrap}.nav-wrap{min-
 .detail .work-hint,.page-heading .work-hint{font-size:13px;font-style:italic;font-weight:normal;line-height:1.85;color:#858585;max-width:36ch;margin:22px 0 0;white-space:pre-line;overflow-wrap:break-word}
 html[lang="zh-CN"] .work-hint{max-width:24em}
 .page-heading .work-hint{font-size:11px}
+
+/* About document photograph and the standalone error page. */
+.about-portrait{display:block;width:100%;max-width:220px;height:auto;margin:0 0 28px}
+.error-page{margin:clamp(55px,9vw,120px) 12vw 80px;max-width:620px}
+.error-page p{font-size:13px;color:var(--muted);margin:22px 0 36px}
+.error-page img{display:block;width:100%;max-width:520px;height:auto;object-fit:contain;margin:0 0 32px}
+@media(max-width:800px){.error-page{margin:55px 6vw 70px}}
