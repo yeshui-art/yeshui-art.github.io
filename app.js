@@ -1,11 +1,15 @@
 // Progressive enhancement only. Every page is complete before this script runs.
 (() => {
  const english=document.documentElement.lang==='en';
- const message=english?'Image unavailable':'图像暂不可用';
+ const fallbackUrl=new URL('assets/fallback/yeshui-2005-2026.jpg',document.currentScript.src).href;
  const pending=new WeakSet();
  function attach(img){
   let retries=0,finished=false,timer;
-  const loaded=()=>{if(img.naturalWidth){finished=true;clearTimeout(timer);img.dataset.loadState='loaded';}};
+  let originalWidth=Number(img.getAttribute('width')),originalHeight=Number(img.getAttribute('height'));
+  const loaded=()=>{if(img.naturalWidth){
+   clearTimeout(timer);pending.delete(img);img.dataset.loadState='loaded';
+   if(!originalWidth||!originalHeight){originalWidth=img.naturalWidth;originalHeight=img.naturalHeight;}
+  }};
   const failed=()=>{
    if(finished||pending.has(img)||!img.isConnected)return;
    if(retries===0){
@@ -19,13 +23,18 @@
     },1500);
     return;
    }
-   finished=true;img.dataset.loadState='failed';
-   if(img.dataset.optional){img.closest('.text-cover')?.remove();return;}
-   const fallback=document.createElement('div');fallback.className='image-unavailable';
-   fallback.setAttribute('role','img');fallback.setAttribute('aria-label',img.alt);
-   const width=Number(img.getAttribute('width')),height=Number(img.getAttribute('height'));
-   if(width&&height){fallback.style.aspectRatio=width+'/'+height;fallback.style.minHeight='0';fallback.style.width='100%';}
-   fallback.textContent=message;(img.closest('picture')||img).replaceWith(fallback);
+   finished=true;clearTimeout(timer);pending.delete(img);
+   img.removeEventListener('load',loaded);img.removeEventListener('error',failed);
+   const box=img.getBoundingClientRect();
+   if(originalWidth&&originalHeight)img.style.aspectRatio=originalWidth+'/'+originalHeight;
+   else if(box.width&&box.height)img.style.aspectRatio=box.width+'/'+box.height;
+   img.style.objectFit='contain';img.style.objectPosition='center';
+   img.closest('picture')?.querySelectorAll('source').forEach(source=>source.remove());
+   img.removeAttribute('srcset');img.removeAttribute('sizes');
+   img.alt=english?'Ye Shui, 2005–2026':'野水，2005—2026';
+   img.dataset.loadState='fallback';
+   img.addEventListener('error',()=>{img.dataset.loadState='fallback-failed';img.style.visibility='hidden';},{once:true});
+   img.src=fallbackUrl;
   };
   img.addEventListener('load',loaded);img.addEventListener('error',failed);
   if(img.complete){if(img.naturalWidth)loaded();else failed();}
