@@ -151,6 +151,10 @@ window.SITE_CONTENT = {
       "alt": {
         "zh": "野水，《交界地》，2026",
         "en": "Ye Shui, Interzone, 2026"
+      },
+      "hint": {
+        "zh": "我们与古老者相互观测，相互无言。苏醒着沉眠，咀嚼着召唤。",
+        "en": "We and the ancient ones observe one another, wordlessly. Awake in slumber, chewing on the summons."
       }
     },
     {
@@ -175,6 +179,10 @@ window.SITE_CONTENT = {
       "alt": {
         "zh": "野水，《庞贝》，2025",
         "en": "Ye Shui, Pompeii, 2025"
+      },
+      "hint": {
+        "zh": "“he hasten to separate heaven from earth, and hasten to separate earth from heaven.”——The song of the hoe\n在苏美尔神话中，人类诞生于被分离的 An–Ki 之间。于是我开始设想：如果二者再度合一，人类所占据的空间是否也会随之消失。\n庞贝是事后之名，是他人看到这副作品后提供的联想，有人看到这件作品后首先联想到庞贝；后来我亲眼见到庞贝古城的受难者塑模，才决定使用这个名字。\n此前，我借苏美尔宇宙观思考集体性的消逝，而庞贝曾经发生的事件与这一想象形成了近乎重构般的巧合。对我而言，二者所讨论的并没有本质区别。",
+        "en": "“he hasten to separate heaven from earth, and hasten to separate earth from heaven.”——The song of the hoe\nIn Sumerian mythology, humans came into being between the separated An–Ki. I began to imagine: if the two were to become one again, would the space occupied by humans disappear with them?\nPompeii was a name that came afterward, an association suggested by others who saw the work. Some immediately thought of Pompeii when they saw it; only later, after seeing the casts of the victims in the ancient city of Pompeii myself, did I decide to use the name.\nBefore that, I had used Sumerian cosmology to think about collective disappearance. What once happened at Pompeii coincided with this imagining so closely that it seemed almost like a reconstruction. For me, there is no essential difference in what the two address."
       }
     },
     {
@@ -202,6 +210,10 @@ window.SITE_CONTENT = {
       "alt": {
         "zh": "野水，《恶身》，2025",
         "en": "Ye Shui, Evil Body, 2025"
+      },
+      "hint": {
+        "zh": "作品绘制于一块路边拾得的板材上。板材几乎不吸水，因此我先勾勒人物轮廓，再将大量兑水丙烯倾倒其上。随着水分缓慢蒸发，颜料在表面流动、停滞并沉积，最终形成现在的画面。",
+        "en": "The work was painted on a board found by the roadside. The board absorbed almost no water, so I first outlined the figure, then poured large amounts of diluted acrylic paint over it. As the water slowly evaporated, the paint flowed, came to rest and settled on the surface, eventually forming the image seen here."
       }
     },
     {
@@ -226,6 +238,10 @@ window.SITE_CONTENT = {
       "alt": {
         "zh": "野水，《鱼，愚，余》，2026",
         "en": "Ye Shui, COD,CLOD,ODD, 2026"
+      },
+      "hint": {
+        "zh": "鱼该怎么叫？\n噗噗噗。\n下一条鱼也是如此。",
+        "en": "What sound should a fish make?\nPuff, puff, puff.\nThe next fish does the same."
       }
     },
     {
@@ -320,6 +336,10 @@ window.SITE_CONTENT = {
       "alt": {
         "zh": "野水，《迷狂 I》，2026",
         "en": "Ye Shui, Ravissement I, 2026"
+      },
+      "hint": {
+        "zh": "我们到底在看什么？",
+        "en": "What exactly are we looking at?"
       }
     },
     {
@@ -344,6 +364,10 @@ window.SITE_CONTENT = {
       "alt": {
         "zh": "野水，《允许一部分年轻人先开始死亡崇拜》，2026",
         "en": "Ye Shui, Allow Some Young People to Be the First to Worship Death, 2026"
+      },
+      "hint": {
+        "zh": "很吵的一件当代艺术作品。",
+        "en": "A very noisy work of contemporary art."
       }
     },
     {
@@ -368,6 +392,10 @@ window.SITE_CONTENT = {
       "alt": {
         "zh": "野水，《三重世界》，2026",
         "en": "Ye Shui, Three Kinds of Beds, 2026"
+      },
+      "hint": {
+        "zh": "先有床本身，而后有木匠的床，再后才有画家的床。\n到我们这里，真实已经经过了几次转述？",
+        "en": "First there is the bed itself, then the carpenter’s bed, and only then the painter’s bed.\nBy the time it reaches us, how many times has reality been retold?"
       }
     }
   ],

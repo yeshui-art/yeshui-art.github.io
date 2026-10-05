@@ -43,3 +43,8 @@ header .brand{flex-shrink:0}nav{gap:24px}nav a{white-space:nowrap}.nav-wrap{min-
  .series-item+.series-item{margin-top:85px}
  .series-item h2{font-size:32px}
 }
+
+/* Optional, unlabelled viewing text beneath the work facts. */
+.detail .work-hint,.page-heading .work-hint{font-size:13px;font-style:italic;font-weight:normal;line-height:1.85;color:#858585;max-width:36ch;margin:22px 0 0;white-space:pre-line;overflow-wrap:break-word}
+html[lang="zh-CN"] .work-hint{max-width:24em}
+.page-heading .work-hint{font-size:11px}
