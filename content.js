@@ -466,13 +466,159 @@ window.SITE_CONTENT = {
           "altEn": "Ye Shui, Shigan, 2024, image 1"
         }
       ]
+    },
+    {
+      "id": "mole-and-maggots",
+      "placeholder": false,
+      "titleZh": "眼角的痣，伤口的蛆",
+      "titleEn": "A Mole at the Corner of the Eye, Maggots in the Wound",
+      "year": "2024",
+      "locationZh": "武汉，中国",
+      "locationEn": "Wuhan, China",
+      "categories": [
+        {
+          "zh": "纪实摄影",
+          "en": "Documentary Photography"
+        },
+        {
+          "zh": "主观摄影",
+          "en": "Subjective Photography"
+        }
+      ],
+      "images": [
+        {
+          "image": "assets/photo-mole-and-maggots-1.jpg",
+          "width": 472,
+          "height": 839,
+          "altZh": "野水，《眼角的痣，伤口的蛆》，2024，图 1",
+          "altEn": "Ye Shui, A Mole at the Corner of the Eye, Maggots in the Wound, 2024, image 1"
+        }
+      ]
+    },
+    {
+      "id": "east-lake-water",
+      "placeholder": false,
+      "titleZh": "东湖戏水",
+      "titleEn": "Playing in the Water at East Lake",
+      "year": "2024",
+      "locationZh": "武汉，中国",
+      "locationEn": "Wuhan, China",
+      "categories": [
+        {
+          "zh": "纪实摄影",
+          "en": "Documentary Photography"
+        }
+      ],
+      "images": [
+        {
+          "image": "assets/photo-east-lake-water-1.jpg",
+          "width": 1197,
+          "height": 674,
+          "altZh": "野水，《东湖戏水》，2024，图 1",
+          "altEn": "Ye Shui, Playing in the Water at East Lake, 2024, image 1"
+        },
+        {
+          "image": "assets/photo-east-lake-water-2.jpg",
+          "width": 1175,
+          "height": 661,
+          "altZh": "野水，《东湖戏水》，2024，图 2",
+          "altEn": "Ye Shui, Playing in the Water at East Lake, 2024, image 2"
+        }
+      ],
+      "overviewCover": true,
+      "typeZh": "组图",
+      "typeEn": "Photo Series"
+    },
+    {
+      "id": "fountain-pro-max",
+      "placeholder": false,
+      "titleZh": "泉 Pro Max",
+      "titleEn": "Fountain Pro Max",
+      "year": "2024",
+      "locationZh": "武汉，中国",
+      "locationEn": "Wuhan, China",
+      "categories": [
+        {
+          "zh": "观念摄影",
+          "en": "Conceptual Photography"
+        }
+      ],
+      "images": [
+        {
+          "image": "assets/photo-fountain-pro-max-1.jpg",
+          "width": 476,
+          "height": 847,
+          "altZh": "野水，《泉 Pro Max》，2024，图 1",
+          "altEn": "Ye Shui, Fountain Pro Max, 2024, image 1"
+        }
+      ]
+    },
+    {
+      "id": "heavenly-father",
+      "placeholder": false,
+      "titleZh": "天父的回响",
+      "titleEn": "Echoes of the Heavenly Father",
+      "year": "2024",
+      "locationZh": "武汉，中国",
+      "locationEn": "Wuhan, China",
+      "categories": [
+        {
+          "zh": "主观摄影",
+          "en": "Subjective Photography"
+        }
+      ],
+      "images": [
+        {
+          "image": "assets/photo-heavenly-father-1.jpg",
+          "width": 1456,
+          "height": 819,
+          "altZh": "野水，《天父的回响》，2024，图 1",
+          "altEn": "Ye Shui, Echoes of the Heavenly Father, 2024, image 1"
+        }
+      ]
+    },
+    {
+      "id": "my-east-lake",
+      "placeholder": false,
+      "titleZh": "我的，东湖",
+      "titleEn": "My East Lake",
+      "year": "2023–ongoing",
+      "locationZh": "武汉，中国",
+      "locationEn": "Wuhan, China",
+      "categories": [],
+      "images": [
+        {
+          "image": "assets/photo-my-east-lake-1.jpg",
+          "width": 925,
+          "height": 617,
+          "altZh": "野水，《我的，东湖》，2023–ongoing，图 1",
+          "altEn": "Ye Shui, My East Lake, 2023–ongoing, image 1"
+        },
+        {
+          "image": "assets/photo-my-east-lake-2.jpg",
+          "width": 1043,
+          "height": 587,
+          "altZh": "野水，《我的，东湖》，2023–ongoing，图 2",
+          "altEn": "Ye Shui, My East Lake, 2023–ongoing, image 2"
+        },
+        {
+          "image": "assets/photo-my-east-lake-3.jpg",
+          "width": 1148,
+          "height": 646,
+          "altZh": "野水，《我的，东湖》，2023–ongoing，图 3",
+          "altEn": "Ye Shui, My East Lake, 2023–ongoing, image 3"
+        }
+      ],
+      "overviewCover": true,
+      "typeZh": "长期摄影项目",
+      "typeEn": "Ongoing Photographic Project"
     }
   ],
   "texts": [
     {
       "slug": "geliya-de-manuscript",
       "titleZh": "戈利亚德手稿",
-      "titleEn": "The Goliad Manuscript",
+      "titleEn": "Codex Goliardicus",
       "year": "2026",
       "categoryZh": "艺术家书",
       "categoryEn": "Artist’s Book",
