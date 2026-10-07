@@ -73,6 +73,13 @@ window.SITE_CONTENT = {
       },
       "entries": [
         {
+          "year": "2026–ongoing",
+          "text": {
+            "zh": "《戈利亚德手稿》，终生文本项目",
+            "en": "Codex Goliardicus, lifelong text project"
+          }
+        },
+        {
           "year": {
             "zh": "2026—至今",
             "en": "2026–present"
@@ -100,8 +107,8 @@ window.SITE_CONTENT = {
         {
           "year": "2026",
           "text": {
-            "zh": "《戈利亚德手稿》，独立印制艺术家书，限量 10 册",
-            "en": "The Goliad Manuscript, independently printed artist’s book, edition of 10"
+            "zh": "《戈利亚德手稿》，独立印制艺术家书，第一版，10 册",
+            "en": "Codex Goliardicus, independently printed artist’s book, first edition, 10 copies"
           }
         },
         {
@@ -654,10 +661,10 @@ window.SITE_CONTENT = {
       "year": "2026",
       "categoryZh": "艺术家书",
       "categoryEn": "Artist’s Book",
-      "introZh": "",
-      "introEn": "",
-      "formatZh": "独立印制，限量 10 册",
-      "formatEn": "Independently printed, edition of 10",
+      "introZh": "收录我自儿时至21岁期间创作的诗歌。",
+      "introEn": "A collection of poems I wrote from childhood to the age of 21.",
+      "formatZh": "独立印制艺术家书，第一版，10 册",
+      "formatEn": "Independently printed artist’s book, first edition, 10 copies",
       "externalUrl": null,
       "pdf": null,
       "cover": null
@@ -703,6 +710,53 @@ window.SITE_CONTENT = {
       "introEn": "",
       "formatZh": "Amazon KDP 独立出版",
       "formatEn": "Independently published through Amazon KDP",
+      "externalUrl": null,
+      "pdf": null,
+      "cover": null
+    }
+  ],
+  "projects": [
+    {
+      "slug": "codex-goliardicus",
+      "titleZh": "戈利亚德手稿",
+      "titleEn": "Codex Goliardicus",
+      "year": "2026–ongoing",
+      "categoryZh": "终生文本项目",
+      "categoryEn": "Lifelong Text Project",
+      "introZh": "《戈利亚德手稿》是一项持续更新的终生文本项目，起点可以追溯至我儿时第一次写诗。书名取自中世纪戈利亚德诗歌传统——由神学生、流浪者、贫民与地下文人共同构成的异端性写作群体，他们借宗教语言书写酒精、青春、欲望与嘲讽。\n我的写作并非从模仿这一传统开始，却在长期创作中逐渐靠近它：从早期直接的身体与情绪书写，到死亡、情爱、叙事诗与诗化小说，再到意象拼贴、宗教咏唱和古典乐诗结构。它会不断被改写，直到我去见戈利亚王。",
+      "introEn": "Codex Goliardicus is a continually evolving, lifelong text project whose beginnings can be traced back to the first poem I wrote as a child. Its title draws on the medieval Goliardic poetic tradition—a heterodox community of writers comprising theology students, wanderers, the poor and underground writers, who used religious language to write about alcohol, youth, desire and mockery.\nMy writing did not begin by imitating this tradition, but has gradually moved closer to it over years of practice: from early, direct writing about the body and emotion, to death, love, narrative poetry and poetic fiction, and then to collages of imagery, religious chanting and classical structures of music and poetry. It will continue to be rewritten until I go to meet King Golias.",
+      "formatZh": "",
+      "formatEn": "",
+      "externalUrl": null,
+      "pdf": null,
+      "cover": null
+    },
+    {
+      "slug": "my-east-lake",
+      "titleZh": "我的，东湖",
+      "titleEn": "My East Lake",
+      "year": "2023–ongoing",
+      "categoryZh": "长期摄影项目",
+      "categoryEn": "Ongoing Photographic Project",
+      "introZh": "《我的，东湖》是一项始于 2023 年的长期摄影项目，持续拍摄不同个体面对东湖时的状态。项目最初来自我对“跳东湖”及相关东湖公共艺术行动的追索，也来自我自身对这片城市空间的长期经验。\n多年过去，围绕东湖的开发、使用与观看方式不断变化，而湖仍持续存在于城市生活之中。项目不试图重演此前的‘东湖计划’，而是从更私人、缓慢的方式重新进入同一地点：记录人与东湖之间不断变化的观看关系，也记录这座城市如何在日常中继续经过它。",
+      "introEn": "My East Lake is a long-term photographic project begun in 2023, continuously documenting different individuals as they face East Lake. The project grew out of my investigation into “Jump into East Lake” and related public art actions around the lake, as well as my own longstanding experience of this urban space.\nOver the years, the ways East Lake is developed, used and viewed have continued to change, while the lake remains part of urban life. The project does not seek to reenact the earlier “East Lake Project,” but returns to the same place in a more personal, gradual way: recording the changing relationship between people and East Lake through acts of looking, and how the city continues to pass by it in everyday life.",
+      "formatZh": "",
+      "formatEn": "",
+      "externalUrl": null,
+      "pdf": null,
+      "cover": null
+    },
+    {
+      "slug": "they-say-this-is-performance-art",
+      "titleZh": "他们说这是行为艺术",
+      "titleEn": "They Say This Is Performance Art",
+      "year": "2026–ongoing",
+      "categoryZh": "公共行动项目",
+      "categoryEn": "Public Action Project",
+      "introZh": "《他们说这是行为艺术》是一项持续中的公共行动项目。项目起源于我对三岛由纪夫与全共斗辩论的兴趣，并进一步转向对其中无党派大学生群体的关注。对我而言，这一历史形象并非作为明确的政治主张被重新调用，而更像是一种青年身份、学生身份与时代情绪的残留。\n作为当代大学生，我开始佩戴带有这一历史指向的帽子进行日常通勤，使一个属于另一时代的青年符号重新进入今天的校园、街道与公共交通之中。项目试图制造一种历史性的错位：同样是大学生身份，但不同年代的青年状态、公共表达与社会氛围已经发生变化。\n项目的名称来自一次偶然的询问。学校老师看到这一行为后问我：“你这是搞行为艺术吗？”于是，这一行动被命名为《他们说这是行为艺术》。",
+      "introEn": "They Say This Is Performance Art is an ongoing public action project. It began with my interest in the debate between Yukio Mishima and the Zenkyoto student movement, which led me to focus on the unaffiliated university students within it. For me, this historical image is not invoked as an explicit political position, but rather as a remnant of youth identity, student identity and the mood of an era.\nAs a university student today, I began wearing a hat that refers to this history during my daily commute, bringing a symbol of youth from another era into today’s campuses, streets and public transport. The project seeks to create a historical displacement: the identity of the university student remains, but the conditions of young people, forms of public expression and social atmosphere have changed across generations.\nThe project’s title came from a chance question. A teacher at my university saw what I was doing and asked, “Are you doing performance art?” This is how the action came to be called They Say This Is Performance Art.",
+      "formatZh": "",
+      "formatEn": "",
       "externalUrl": null,
       "pdf": null,
       "cover": null
