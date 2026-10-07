@@ -95,6 +95,13 @@ window.SITE_CONTENT = {
             "zh": "参与李珞导演、以艺术家李文为核心人物的影像项目拍摄，作为片中现实人物之一出镜并参与影像创作，武汉",
             "en": "Participated in a moving-image project directed by Li Luo and centered on artist Li Wen, appearing as one of its real-life participants and contributing to its creation, Wuhan"
           }
+        },
+        {
+          "year": "2023–ongoing",
+          "text": {
+            "zh": "《我的，东湖》，长期摄影项目",
+            "en": "My East Lake, ongoing photographic project"
+          }
         }
       ]
     },
