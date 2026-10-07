@@ -181,8 +181,8 @@ window.SITE_CONTENT = {
         "en": "Ye Shui, Pompeii, 2025"
       },
       "hint": {
-        "zh": "“he hasten to separate heaven from earth, and hasten to separate earth from heaven.”——The song of the hoe\n在苏美尔神话中，人类诞生于被分离的 An–Ki 之间。于是我开始设想：如果二者再度合一，人类所占据的空间是否也会随之消失。\n庞贝是事后之名，是他人看到这副作品后提供的联想，有人看到这件作品后首先联想到庞贝；后来我亲眼见到庞贝古城的受难者塑模，才决定使用这个名字。\n此前，我借苏美尔宇宙观思考集体性的消逝，而庞贝曾经发生的事件与这一想象形成了近乎重构般的巧合。对我而言，二者所讨论的并没有本质区别。",
-        "en": "“he hasten to separate heaven from earth, and hasten to separate earth from heaven.”——The song of the hoe\nIn Sumerian mythology, humans came into being between the separated An–Ki. I began to imagine: if the two were to become one again, would the space occupied by humans disappear with them?\nPompeii was a name that came afterward, an association suggested by others who saw the work. Some immediately thought of Pompeii when they saw it; only later, after seeing the casts of the victims in the ancient city of Pompeii myself, did I decide to use the name.\nBefore that, I had used Sumerian cosmology to think about collective disappearance. What once happened at Pompeii coincided with this imagining so closely that it seemed almost like a reconstruction. For me, there is no essential difference in what the two address."
+        "zh": "“he hasten to separate heaven from earth, and hasten to separate earth from heaven.” — The Song of the Hoe\n在苏美尔神话中，人类诞生于被分离的 An–Ki 之间。于是我开始设想：如果二者再度合一，人类所占据的空间是否也会随之消失。\n《庞贝》是事后之名。有人看到作品后首先联想到庞贝；后来我亲眼见到庞贝古城的受难者塑模，才决定使用这个名字。此前，我借苏美尔宇宙观思考集体性的消逝，而庞贝曾经发生的事件与这一想象形成了近乎重构般的巧合。",
+        "en": "“he hasten to separate heaven from earth, and hasten to separate earth from heaven.” — The Song of the Hoe\nIn Sumerian mythology, humans came into being between the separated An–Ki. I began to imagine: if the two were to become one again, would the space occupied by humans disappear with them?\nPompeii was a name that came afterward. Some immediately thought of Pompeii when they saw the work; only later, after seeing the casts of the victims in the ancient city of Pompeii myself, did I decide to use the name. Before that, I had used Sumerian cosmology to think about collective disappearance. What once happened at Pompeii coincided with this imagining so closely that it seemed almost like a reconstruction."
       }
     },
     {
@@ -338,8 +338,8 @@ window.SITE_CONTENT = {
         "en": "Ye Shui, Ravissement I, 2026"
       },
       "hint": {
-        "zh": "我们到底在看什么？",
-        "en": "What exactly are we looking at?"
+        "zh": "我们到底在看什么？\n表象，欲望，还是自我？\n然而，这些只是尸体而已。",
+        "en": "What exactly are we looking at?\nAppearances, desire, or the self?\nYet these are only corpses."
       }
     },
     {
@@ -394,8 +394,8 @@ window.SITE_CONTENT = {
         "en": "Ye Shui, Three Kinds of Beds, 2026"
       },
       "hint": {
-        "zh": "先有床本身，而后有木匠的床，再后才有画家的床。\n到我们这里，真实已经经过了几次转述？",
-        "en": "First there is the bed itself, then the carpenter’s bed, and only then the painter’s bed.\nBy the time it reaches us, how many times has reality been retold?"
+        "zh": "先有床本身，而后有木匠的床，再后才有画家的床。\n到我们这里，真实已经经过了几次转述？\n当木匠的床与画家的床开始重叠，我们又身处哪里？",
+        "en": "First there is the bed itself, then the carpenter’s bed, and only then the painter’s bed.\nBy the time it reaches us, how many times has reality been retold?\nWhen the carpenter’s bed and the painter’s bed begin to overlap, where do we find ourselves?"
       }
     }
   ],
@@ -418,7 +418,11 @@ window.SITE_CONTENT = {
           "altZh": "野水，《王》，2025，图 1",
           "altEn": "Ye Shui, King, 2025, image 1"
         }
-      ]
+      ],
+      "hint": {
+        "zh": "世界上最后一个王。\n这只猫也姓王。",
+        "en": "The last king in the world.\nThis cat’s surname is also Wang."
+      }
     },
     {
       "id": "time",
@@ -445,7 +449,11 @@ window.SITE_CONTENT = {
           "altZh": "野水，《时间乐此不疲》，2026，图 2",
           "altEn": "Ye Shui, Time Never Tires of It, 2026, image 2"
         }
-      ]
+      ],
+      "hint": {
+        "zh": "一只猫与一只鸟的尸体，它们本应发生追逐，可是它们死了。于是我开始观察，直到一切失去次序。\n正如时间对我们所做的那样。",
+        "en": "The bodies of a cat and a bird. One should have chased the other, but they were dead. So I began to observe, until everything lost its order.\nJust as time does to us."
+      }
     },
     {
       "id": "shigan",
@@ -465,7 +473,11 @@ window.SITE_CONTENT = {
           "altZh": "野水，《Shigan》，2024，图 1",
           "altEn": "Ye Shui, Shigan, 2024, image 1"
         }
-      ]
+      ],
+      "hint": {
+        "zh": "我眼中的此界。",
+        "en": "This world, as I see it."
+      }
     },
     {
       "id": "mole-and-maggots",
@@ -493,7 +505,11 @@ window.SITE_CONTENT = {
           "altZh": "野水，《眼角的痣，伤口的蛆》，2024，图 1",
           "altEn": "Ye Shui, A Mole at the Corner of the Eye, Maggots in the Wound, 2024, image 1"
         }
-      ]
+      ],
+      "hint": {
+        "zh": "这是我曾经就读的幼儿园旁一个奇异的空间。小时候我并不觉得它有什么特别，后来路过，发现它还和从前一样，像被时代遗忘了一样。\n这张照片最初叫《时代的阴翳》。后来我开始写一部自传体小说，把第一章命名为《眼角的痣，伤口的蛆》，于是又想起了这张照片，并将它改为现在的名字。",
+        "en": "This is a strange space beside the kindergarten I once attended. As a child, I never thought there was anything special about it. Passing by later, I found it just as it had been, as though time had forgotten it.\nThis photograph was originally called The Shadow of an Era. Later, I began writing an autobiographical novel and named its first chapter A Mole at the Corner of the Eye, Maggots in the Wound. This brought the photograph back to mind, and I gave it its present title."
+      }
     },
     {
       "id": "east-lake-water",
@@ -527,7 +543,11 @@ window.SITE_CONTENT = {
       ],
       "overviewCover": true,
       "typeZh": "组图",
-      "typeEn": "Photo Series"
+      "typeEn": "Photo Series",
+      "hint": {
+        "zh": "我在东湖看见一个孩子独自玩水，又看见许多妇人在玩水。为什么孩子反而没有同伴？为什么那些上了年纪的妇女又可以像孩子一样开心？",
+        "en": "At East Lake, I saw a child playing in the water alone, then saw many women playing in the water. Why was it the child who had no companions? Why could those older women be as happy as children?"
+      }
     },
     {
       "id": "fountain-pro-max",
@@ -551,7 +571,11 @@ window.SITE_CONTENT = {
           "altZh": "野水，《泉 Pro Max》，2024，图 1",
           "altEn": "Ye Shui, Fountain Pro Max, 2024, image 1"
         }
-      ]
+      ],
+      "hint": {
+        "zh": "这只是一个笑话而已。",
+        "en": "It is only a joke."
+      }
     },
     {
       "id": "heavenly-father",
@@ -575,7 +599,11 @@ window.SITE_CONTENT = {
           "altZh": "野水，《天父的回响》，2024，图 1",
           "altEn": "Ye Shui, Echoes of the Heavenly Father, 2024, image 1"
         }
-      ]
+      ],
+      "hint": {
+        "zh": "我看见了一个隧道，可前面太亮了，有那么一瞬间，我竟然产生了莫名的崇高之情。\n那是我儿时英雄梦所留下的后遗症。",
+        "en": "I saw a tunnel, but it was so bright ahead that, for a moment, I felt an inexplicable sense of the sublime.\nIt was a lingering aftereffect of my childhood dream of being a hero."
+      }
     },
     {
       "id": "my-east-lake",
@@ -611,7 +639,11 @@ window.SITE_CONTENT = {
       ],
       "overviewCover": true,
       "typeZh": "长期摄影项目",
-      "typeEn": "Ongoing Photographic Project"
+      "typeEn": "Ongoing Photographic Project",
+      "hint": {
+        "zh": "我在互联网平台看见“跳东湖”的活动，顺藤摸瓜找到了曾经围绕东湖展开的一系列公共艺术行动。多年过去，开发并没有停止，太阳照常升起，人们照常经过这片湖。于是我开始拍摄他们面对东湖的样子。",
+        "en": "I saw an event called “Jump into East Lake” on an online platform. Following the trail, I discovered a series of public art actions that had taken place around East Lake. Years have passed, development has not stopped, the sun rises as usual, and people still pass by the lake. So I began photographing them as they faced East Lake."
+      }
     }
   ],
   "texts": [
