@@ -254,8 +254,8 @@ window.SITE_CONTENT = {
         "en": "Ye Shui, COD,CLOD,ODD, 2026"
       },
       "hint": {
-        "zh": "鱼该怎么叫？\n噗噗噗。\n下一条鱼也是如此。",
-        "en": "What sound should a fish make?\nPuff, puff, puff.\nThe next fish does the same."
+        "zh": "我拿自己的头发与金属箔作为介入材料。金属箔既被处理为类似绳索的存在，也被转化为身体分泌物的象征。",
+        "en": "I used my own hair and metal foil as materials to intervene in the work. The metal foil was shaped into something resembling rope and also transformed into a symbol of bodily secretions."
       }
     },
     {
@@ -352,8 +352,8 @@ window.SITE_CONTENT = {
         "en": "Ye Shui, Ravissement I, 2026"
       },
       "hint": {
-        "zh": "我们到底在看什么？\n表象，欲望，还是自我？\n然而，这些只是尸体而已。",
-        "en": "What exactly are we looking at?\nAppearances, desire, or the self?\nYet these are only corpses."
+        "zh": "一系列死者图像转绘。",
+        "en": "A series of paintings made from images of the dead."
       }
     },
     {
@@ -380,8 +380,8 @@ window.SITE_CONTENT = {
         "en": "Ye Shui, Allow Some Young People to Be the First to Worship Death, 2026"
       },
       "hint": {
-        "zh": "很吵的一件当代艺术作品。",
-        "en": "A very noisy work of contemporary art."
+        "zh": "很吵的一件当代艺术作品。我拼贴了一份公开的故意杀人案文书与日本暗黑舞踏照片，并进行了不均匀的烧灼。",
+        "en": "A very noisy work of contemporary art. I collaged a publicly available document from an intentional homicide case with photographs of Japanese ankoku butoh, then scorched them unevenly."
       }
     },
     {
@@ -408,8 +408,8 @@ window.SITE_CONTENT = {
         "en": "Ye Shui, Three Kinds of Beds, 2026"
       },
       "hint": {
-        "zh": "先有床本身，而后有木匠的床，再后才有画家的床。\n到我们这里，真实已经经过了几次转述？\n当木匠的床与画家的床开始重叠，我们又身处哪里？",
-        "en": "First there is the bed itself, then the carpenter’s bed, and only then the painter’s bed.\nBy the time it reaches us, how many times has reality been retold?\nWhen the carpenter’s bed and the painter’s bed begin to overlap, where do we find ourselves?"
+        "zh": "我使用了绷带与烧灼纸片作为材料进行创作。并将铁粉洒在上面，放在雨水下泡了一阵，然后铁粉就生锈了。",
+        "en": "I used bandages and scorched pieces of paper as materials for the work. I sprinkled iron powder over them and left the work to soak in the rain for a while. The iron powder then rusted."
       }
     }
   ],
@@ -668,8 +668,8 @@ window.SITE_CONTENT = {
       "year": "2026",
       "categoryZh": "艺术家书",
       "categoryEn": "Artist’s Book",
-      "introZh": "收录我自儿时至21岁期间创作的诗歌。",
-      "introEn": "A collection of poems I wrote from childhood to the age of 21.",
+      "introZh": "收录我11岁到21岁期间创作的诗歌。",
+      "introEn": "A collection of poems I wrote between the ages of 11 and 21.",
       "formatZh": "独立印制艺术家书，第一版，10 册",
       "formatEn": "Independently printed artist’s book, first edition, 10 copies",
       "externalUrl": null,
@@ -683,8 +683,8 @@ window.SITE_CONTENT = {
       "year": "2025",
       "categoryZh": "艺术家书",
       "categoryEn": "Artist’s Book",
-      "introZh": "",
-      "introEn": "",
+      "introZh": "一部以武汉为地点的实验奇幻小说。",
+      "introEn": "An experimental fantasy novel set in Wuhan.",
       "formatZh": "独立印制，限量 20 册",
       "formatEn": "Independently printed, edition of 20",
       "externalUrl": null,
@@ -698,8 +698,8 @@ window.SITE_CONTENT = {
       "year": "2025",
       "categoryZh": "实验小说",
       "categoryEn": "Experimental Fiction",
-      "introZh": "",
-      "introEn": "",
+      "introZh": "分别以中国、日本和韩国三个国家为背景的实验科幻小说。",
+      "introEn": "An experimental science fiction novel set in China, Japan and South Korea.",
       "formatZh": "Amazon Kindle 独立发行",
       "formatEn": "Independently released on Amazon Kindle",
       "externalUrl": null,
@@ -713,8 +713,8 @@ window.SITE_CONTENT = {
       "year": "2025",
       "categoryZh": "实验小说",
       "categoryEn": "Experimental Fiction",
-      "introZh": "",
-      "introEn": "",
+      "introZh": "以我本人为起点的荒诞派实验小说。起因是我在回家路上遇到了一只黑猫。",
+      "introEn": "An absurdist experimental novel that takes me as its starting point. It began when I encountered a black cat on my way home.",
       "formatZh": "Amazon KDP 独立出版",
       "formatEn": "Independently published through Amazon KDP",
       "externalUrl": null,
