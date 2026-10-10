@@ -17,7 +17,10 @@ window.SITE_CONTENT = {
     "en": "Ye Shui is an interdisciplinary artist living and working in Wuhan, working across painting, mixed media, text, photography and moving image. His practice revolves around myths, dislocations and shifts, focusing on the unstable relationships between the individual, experience, mythology, history and reality. Through images, materials and words, he explores how these relationships change across different contexts."
   },
   "email": "yang98047@gmail.com",
-  "cvPdf": "assets/yeshui-cv.pdf",
+  "cvPdf": {
+    "zh": "assets/yeshui-cv.pdf",
+    "en": "assets/yeshui-cv-en.pdf"
+  },
   "cv": [
     {
       "title": {
